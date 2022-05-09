@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Chiều cuối tuần anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.google.com.vn/search?tbm=isch&q=tr%C3%A1i+tim+kh%E1%BB%A7ng+l%E1%BB%93' //link mess của các bạn. VD: https://m.me/nam.nodemy
+ 
 }
